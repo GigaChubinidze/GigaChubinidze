@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GigaChubinidze
-- 👀 I’m interested in Programmin
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Programming
 - 📫 How to reach me https://www.linkedin.com/in/giga-chubinidze-03751a191/
