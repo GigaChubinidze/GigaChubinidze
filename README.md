@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GigaChubinidze
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Programming
+- 🌱 I’m currently working as a Fullstack engineer
 - 📫 How to reach me https://www.linkedin.com/in/giga-chubinidze-03751a191/
